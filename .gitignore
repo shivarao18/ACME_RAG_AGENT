@@ -1,0 +1,24 @@
+﻿# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.egg
+
+# Virtual environments
+.venv
+
+# Tool caches
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+
+# Coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# Generated artifacts
+sbom.cyclonedx.json
